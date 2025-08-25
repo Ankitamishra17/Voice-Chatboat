@@ -127,6 +127,7 @@ body.dark .theme-toggle {
   opacity: 0.75;
   min-height: 1.5rem;
   transition: opacity 0.3s;
+  color:var(--bg)
 }
 
 /* Light Mode */
